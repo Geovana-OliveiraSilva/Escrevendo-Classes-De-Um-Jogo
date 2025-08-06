@@ -77,7 +77,7 @@ CLASSE-HEROI-JOGO/
 
 1. Clone o repositório:
 ```bash
-git clone https://github.com/seu-usuario/heroi-poo-dio.git
+git clone  https://github.com/Geovana-OliveiraSilva/Escrevendo-Classes-De-Um-Jogo.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador.
