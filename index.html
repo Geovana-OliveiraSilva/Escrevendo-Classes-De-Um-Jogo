@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Classe Heroi Jogo</title>
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+  <h1>Classe Herói Jogo</h1>
+
+  <div class="card-container">
+    
+   <!-- Cartão Do Mago -->
+    <div class="character-card mago">
+      <img src="assets/NARUTO - MAGO-Concentração.png" id="image-mago" />
+      <h2>Naruto (mago)</h2>
+      <button onclick="attackCharacter('mago')">Attack</button>
+      <div class="attack-message" id="message-mago"></div>
+    </div>
+
+    <!-- Cartão Do Guerreiro-->
+    <div class="character-card guerreiro">
+      <img src="assets/SASUKE-GUERREIRO-Preparação.png" id="image-guerreiro" />
+      <h2>Sasuke (guerreiro)</h2>
+      <button onclick="attackCharacter('guerreiro')">Attack</button>
+      <div class="attack-message" id="message-guerreiro"></div>
+    </div>
+
+    <!-- Cartão do Monge -->
+    <div class="character-card monge">
+      <img src="assets/ROCK LEE -Preparação.png" id="image-monge" />
+      <h2>Rock Lee (monge)</h2>
+      <button onclick="attackCharacter('monge')">Attack</button>
+      <div class="attack-message" id="message-monge"></div>
+    </div>
+
+     <!-- Cartão do Ninja -->
+    <div class="character-card ninja">
+      <img src="assets/KAKASHI-NINJA-Preparação.png" id="image-ninja" />
+      <h2>Kakashi (ninja)</h2>
+      <button onclick="attackCharacter('ninja')">Attack</button>
+      <div class="attack-message" id="message-ninja"></div>
+    </div>
+
+  </div>
+
+  <script src="js/script.js"></script>
+</body>
+</html>
