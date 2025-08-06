@@ -66,7 +66,7 @@ CLASSE-HEROI-JOGO/
 ├── js/
 │   └── script.js
 │
-├── index.html
+└── index.html
 └── README.md
 └── LICENSE.md
 ```
