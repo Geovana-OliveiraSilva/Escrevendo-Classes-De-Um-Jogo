@@ -18,7 +18,7 @@ Cada personagem possui:
 ✔️ Variáveis  
 ✔️ Operadores  
 ✔️ Estruturas de Decisão  
-✔️ Laços de Repetição 
+✔️ Laços de Repetição                                                                                 
 ✔️ Funções  
 ✔️ Classes e Objetos
 
@@ -77,7 +77,7 @@ CLASSE-HEROI-JOGO/
 
 1. Clone o repositório:
 ```bash
-git clone  https://github.com/Geovana-OliveiraSilva/Escrevendo-Classes-De-Um-Jogo.git
+git clone https://github.com/Geovana-OliveiraSilva/Escrevendo-Classes-De-Um-Jogo.git
 ```
 
 2. Abra o arquivo `index.html` em seu navegador.
